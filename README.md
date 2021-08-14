@@ -1,12 +1,12 @@
 # MAXP
 This is a simple guide how to access Max+ without having wechat
 # Introduction
-MAX+ is a Chinese app which focused on cyber games and game related topics. Recently MAX+ added a feature to trade csgo ingame skin with a competitive convenience fee(1%).
-The purpose of this guide is to help non-Chinese users to access p2p trading features on MAX+.
-Most of max+ feature is embedded which means you can access it from another app.
-Today I am going to show you a magic trick to bypass Max+ with another app(which developed from the same parent company as Max+) to unlock most of its feature.
+MAX+ is a Chinese app which focuses on cyber games and game related topics.  <br/>
+Recently MAX+ added a feature to trade CSGO ingame skin with a competitive convenience fee(1%).  <br/>
+The purpose of this guide is to help non-Chinese users to access p2p trading features on MAX+.  <br/>
+Most of max+ features are embedded which means you can access it from another app.  <br/>
+Today I am going to show you a magic trick to bypass Max+ with another app(which is developed from the same parent company as Max+) to unlock most of its features. <br/>
 
-# IOS User Section
 ## Download
 Instead of downloading Max+ app directly. You need to search for an app called [Xiaoheihe](https://www.xiaoheihe.cn/home). 
 It is the same company who developed MAX+.
@@ -21,9 +21,9 @@ Why not directly download MAX+ :
 ## Login
 There are two options to login to Xiaoheihe. <br/>
 It is recommended to directly use your mobile number.<br/>
-Simply click the grey syntaxt on your mobile.<br/>
+Simply click the grey syntax on your mobile.<br/>
 
-Fill in your mobile number then type your SMS code. <br/>
+Fill in your mobile number then type the SMS code you got. <br/>
 
 ###
 
@@ -63,10 +63,14 @@ BOOM! You have access to p2p trade now.
 ## Bind Steam
 
 
-Now you have to go through the same step as you bind your steam to other trading app like buff163/c5/igxe.
+Now you have to go through the same step when you bind your steam to other trading app like buff163.
 
 
 ## Trading
 
 
+## Question
+Feel free to send me a DM: <br/>
+[My Twitter](https://twitter.com/noblesix_csgo) <br/>
+My Discord: squintjet811#6353 <br/>
 
