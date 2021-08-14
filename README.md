@@ -35,6 +35,21 @@ Fill in your mobile number then type your SMS code. <br/>
 ###
 
 BOOM! You have access to MAX+ now.(Through it's sibling app Xiaoheihe)<br/>
+
+For first time user, you had to go through some additional steps(it won't show up in the future).<br/>
+
+###
+<img src="Images/Bind/bind_03.jpeg" width="350" height="700">
+
+You can select random option in the following part. 
+<p float="left">
+<img src="Images/Bind/bind_04.jpg" width="350" height="700">
+<img src="Images/Bind/bind_05.jpg" width="350" height="700">
+</p>
+
+###
+
+
 To access the p2p trade section just follow the step below:
 ###
 <p float="left">
