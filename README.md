@@ -31,10 +31,11 @@ Fill in your mobile number then type your SMS code. <br/>
 
 ###
 
-Bingo you have access to MAX+ now.(Through it is sibling app Xiaoheihe)<br/>
+BOOM! You have access to MAX+ now.(Through it's sibling app Xiaoheihe)<br/>
 To access the p2p trade section just follow the step below:
 ###
 <img src="Images/Bind/bind_01.jpg" width="350" height="700">
+BOOM! You have access to p2p trade now.
 <img src="Images/Bind/bind_02.jpg" width="350" height="700">
 
 ###
