@@ -8,7 +8,8 @@ Today I am going to show you a magic trick to bypass Max+ with another app(which
 
 # IOS User Section
 ## Download
-Instead of downloading Max+ app directly. You need to search for an app called xiaoheihe ->(It is the same company who developed MAX+)
+Instead of downloading Max+ app directly. You need to search for an app called [xiaoheihe](https://www.xiaoheihe.cn/home). 
+It is the same company who developed MAX+.
 ###
 <img src="Images/Download/download_heihe_01.jpg" width="540" height="1100">
 
