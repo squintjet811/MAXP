@@ -11,7 +11,7 @@ Today I am going to show you a magic trick to bypass Max+ with another app(which
 Instead of downloading Max+ app directly. You need to search for an app called [Xiaoheihe](https://www.xiaoheihe.cn/home). 
 It is the same company who developed MAX+.
 ###
-<img src="Images/Download/download_heihe_01.jpg" width="540" height="1100">
+<img src="Images/Download/download_heihe_01.jpg" width="350" height="700">
 
 ###
 
@@ -23,17 +23,24 @@ There are two options to login to Xiaoheihe. <br/>
 It is recommended to directly use your mobile number.<br/>
 Simply click the grey syntaxt on your mobile.<br/>
 
-###
-<img src="Images/Login/login_01.jpg" width="540" height="1100">
-<img src="Images/Login/login_02.jpg" width="540" height="1100">
-
-###
-
 Fill in your mobile number then type your SMS code. <br/>
 
-Bingo you have access to MAX+ now.(Through it is sibling app Xiaoheihe)
+###
+<img src="Images/Login/login_01.jpg" width="350" height="700">
+<img src="Images/Login/login_02.jpg" width="350" height="700">
+
+###
+
+Bingo you have access to MAX+ now.(Through it is sibling app Xiaoheihe)<br/>
+To access the p2p trade section just follow the step below:
+###
+<img src="Images/Bind/bind_01.jpg" width="350" height="700">
+<img src="Images/Bind/bind_02.jpg" width="350" height="700">
+
+###
 
 ## Bind Steam
+
 
 Now you have to go through the same step as you bind your steam to other trading app like buff163/c5/igxe.
 
