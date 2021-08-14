@@ -26,19 +26,24 @@ Simply click the grey syntaxt on your mobile.<br/>
 Fill in your mobile number then type your SMS code. <br/>
 
 ###
+
+<p float="left">
 <img src="Images/Login/login_01.jpg" width="350" height="700">
 <img src="Images/Login/login_02.jpg" width="350" height="700">
+</p>
 
 ###
 
 BOOM! You have access to MAX+ now.(Through it's sibling app Xiaoheihe)<br/>
 To access the p2p trade section just follow the step below:
 ###
+<p float="left">
 <img src="Images/Bind/bind_01.jpg" width="350" height="700">
-BOOM! You have access to p2p trade now.
 <img src="Images/Bind/bind_02.jpg" width="350" height="700">
+</p>
 
 ###
+BOOM! You have access to p2p trade now.
 
 ## Bind Steam
 
