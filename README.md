@@ -8,7 +8,7 @@ Today I am going to show you a magic trick to bypass Max+ with another app(which
 
 # IOS User Section
 ## Download
-Instead of downloading Max+ app directly. You need to search for an app called [xiaoheihe](https://www.xiaoheihe.cn/home). 
+Instead of downloading Max+ app directly. You need to search for an app called [Xiaoheihe](https://www.xiaoheihe.cn/home). 
 It is the same company who developed MAX+.
 ###
 <img src="Images/Download/download_heihe_01.jpg" width="540" height="1100">
@@ -19,7 +19,9 @@ Why not directly download MAX+ :
 > The MAX+ App currently does not support international mobile number register while xiaoheihe does
 
 ## Login
-Click the grey syntaxt on your mobile.
+There are two options to login to Xiaoheihe. <br/>
+It is recommended to directly use your mobile number.<br/>
+Simply click the grey syntaxt on your mobile.<br/>
 
 ###
 <img src="Images/Login/login_01.jpg" width="540" height="1100">
@@ -27,12 +29,9 @@ Click the grey syntaxt on your mobile.
 
 ###
 
+Fill in your mobile number then type your SMS code. <br/>
 
-
-
-Fill in your mobile number then type your SMS code.
-
-Bingo you have access to MAX+ now.
+Bingo you have access to MAX+ now.(Through it is sibling app Xiaoheihe)
 
 ## Bind Steam
 
