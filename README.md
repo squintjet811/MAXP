@@ -9,12 +9,24 @@ Today I am going to show you a magic trick to bypass Max+ with another app(which
 # IOS User Section
 ## Download
 Instead of downloading Max+ app directly. You need to search for an app called xiaoheihe ->(It is the same company who developed MAX+)
+###
+<img src="Images/Download/download_heihe_01.jpg" width="540" height="1100">
+
+###
 
 Why not directly download MAX+ : 
 > The MAX+ App currently does not support international mobile number register while xiaoheihe does
 
-## LogIn
+## Login
 Click the grey syntaxt on your mobile.
+
+###
+<img src="Images/Login/login_01.jpg" width="540" height="1100">
+<img src="Images/Login/login_02.jpg" width="540" height="1100">
+
+###
+
+
 
 
 Fill in your mobile number then type your SMS code.
